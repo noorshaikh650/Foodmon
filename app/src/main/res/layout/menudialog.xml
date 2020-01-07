@@ -13,7 +13,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Request Food"
+            android:text="Request Food From Noor "
             android:id="@+id/rfood"
             />
 
